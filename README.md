@@ -1,0 +1,2 @@
+# heuristieken
+Rooster maken heuristiek
